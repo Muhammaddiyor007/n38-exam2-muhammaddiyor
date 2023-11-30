@@ -101,10 +101,7 @@ input[type="search"]::placeholder {
   // text-align: center;
 
   color: #fffdfd !important;
-  i{
-     color: #0c33a9;
-     margin-right: 10px;
-  }
+
 }
 
 .bg_nav2 {
@@ -124,20 +121,6 @@ input[type="search"]::placeholder {
   }
 }
 
-.dropdown-menu {
-  overflow: hidden;
-  background: rgba(255, 255, 255, 0.2);
-  border-radius: 16px;
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-  backdrop-filter: blur(6.7px);
-  -webkit-backdrop-filter: blur(6.7px);
-  border: 1px solid rgba(255, 255, 255, 0.3);
-  li:hover{
-    a{
-      color: #0f0619 !important;
-    }
-  }
-}
 .btn-outline-success{
   border: 1px solid gold;
   color: gold;

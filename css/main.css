@@ -561,11 +561,6 @@ input[type="search"]::placeholder {
   color: #fffdfd !important;
 }
 
-.offcanvas-body ul a i {
-  color: #0c33a9;
-  margin-right: 10px;
-}
-
 .bg_nav2 {
   background: #000000;
 }
@@ -578,21 +573,6 @@ input[type="search"]::placeholder {
 
 .btn_closed svg {
   fill: #fff;
-}
-
-.dropdown-menu {
-  overflow: hidden;
-  background: rgba(255, 255, 255, 0.2);
-  border-radius: 16px;
-  -webkit-box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-          box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-  backdrop-filter: blur(6.7px);
-  -webkit-backdrop-filter: blur(6.7px);
-  border: 1px solid rgba(255, 255, 255, 0.3);
-}
-
-.dropdown-menu li:hover a {
-  color: #0f0619 !important;
 }
 
 .btn-outline-success {
