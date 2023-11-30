@@ -4,7 +4,6 @@
   @return calc($size / $rem-base) * 1rem;
 }
 
-// HEADINGLAR UCHUN
 @mixin heading($heading) {
   $font-sizes: (
     h1: 54px,
@@ -82,7 +81,6 @@
     color: #1b1c2b;
   }
 }
-// MAIN TITLE
 
 @mixin main_title {
   font-family: "Cera Round Pro";
