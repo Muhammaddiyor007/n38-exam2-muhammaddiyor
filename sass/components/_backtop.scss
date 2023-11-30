@@ -1,0 +1,22 @@
+#backtop {
+    position: fixed;
+    background-color: $red;
+    right: 50px;
+    bottom: -70px;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.5s;
+    z-index: 2;
+}
+
+#backtop a {
+    display: block;
+    padding: 10px;
+}
+
+#backtop.backtop-show {
+    bottom: 50px;
+}
+
+
